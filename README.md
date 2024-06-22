@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=VishalRana2015&left_color=green&right_color=red)
+
+![Visitor Count](https://profile-counter.glitch.me/VishalRana2015/count.svg)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=VishalRana2015)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=VishalRana2015)](https://git.io/streak-stats)
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/simpleicons.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v12/icons/simpleicons.svg" />
