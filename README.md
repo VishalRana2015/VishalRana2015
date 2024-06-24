@@ -84,7 +84,7 @@ The background color is `rgb(20,100,100)` for light mode and `#000000` for dark 
   <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" width="70" height="70" alt="npm" title="npm" />
   <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width="70" height="70" alt="Node.js" title="Node.js" />
   <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/c49c6dbd-992a-4f14-9cf4-ff40cb5344ed" width="100" height="70" alt="Gulp" title="Gulp - Build Tool" />
-    <img src="https://github.com/VishalRana2015/VishalRana2015/assets/69715143/7c365dd2-cb45-4b64-9e2a-2792d7671f96" width="220" height="65" alt="AngularJS" title="AngularJS" />
+  <img src="https://github.com/VishalRana2015/VishalRana2015/assets/69715143/7c365dd2-cb45-4b64-9e2a-2792d7671f96" width="220" height="65" alt="AngularJS" title="AngularJS" />
 
 </p>
 
@@ -122,4 +122,8 @@ The background color is `rgb(20,100,100)` for light mode and `#000000` for dark 
 </p>
 
 <h1>Find me</h1>
-<a href="https://www.linkedin.com/in/vishal-rana-072854109/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vishal Rana Linkedin" title="Vishal Rana LinkedIn Profile" /> </a>
+<a href="https://www.linkedin.com/in/vishal-rana-072854109/" target="_blank" rel="noopener noreferror"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vishal Rana Linkedin" title="Vishal Rana LinkedIn Profile" /> </a> 
+<h3> 
+<a href="
+  
+</h3>
