@@ -123,7 +123,8 @@ The background color is `rgb(20,100,100)` for light mode and `#000000` for dark 
 
 <h1>Find me</h1>
 <h3>
-<a href="https://www.linkedin.com/in/vishal-rana-072854109/" target="_blank" rel="noopener noreferror"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vishal Rana Linkedin" title="Vishal Rana LinkedIn Profile" /> </a> 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-rana-072854109/)
 [![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@vishal1360)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/ranavishal2015)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://www.geeksforgeeks.org/user/vishalrana1/)
