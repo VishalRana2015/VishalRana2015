@@ -122,8 +122,24 @@ The background color is `rgb(20,100,100)` for light mode and `#000000` for dark 
 </p>
 
 <h1>Find me</h1>
+<h3>
 <a href="https://www.linkedin.com/in/vishal-rana-072854109/" target="_blank" rel="noopener noreferror"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vishal Rana Linkedin" title="Vishal Rana LinkedIn Profile" /> </a> 
-<h3> 
-<a href="
+[![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@vishal1360)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/ranavishal2015)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://www.geeksforgeeks.org/user/vishalrana1/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/ranavishal2015/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranavishal2015@gmail.com)
   
 </h3>
+
+<h1>Stats</h1>
+
+![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VishalRana2015&theme=vue)
+
+![Languages used stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VishalRana2015&theme=vue)
+
+![Profile Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VishalRana2015&theme=nord_bright)
+
+<h1>Trophies</h1>
+
+﻿[![trophy](https://github-profile-trophy.vercel.app/?username=VishalRana2015)](https://github.com/VishalRana2015)
